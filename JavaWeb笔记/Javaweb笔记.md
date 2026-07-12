@@ -7054,8 +7054,8 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI5tChXTfiJWVwTS5ezhMu
-    accessKeySecret: UNTDHbCK7gFqVFif3zCGddc0SLTP4f
+    accessKeyId: 阿里云accesskey
+    accessKeySecret: 阿里云
     bucketName: myoss1107
 
 ```
