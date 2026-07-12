@@ -6902,8 +6902,8 @@ import java.util.UUID;
 public class AliOSSUtils {
 
     private final String endpoint = "https://oss-cn-beijing.aliyuncs.com";
-    private final String accessKeyId = "LTAI5tChXTfiJWVwTS5ezhMu";
-    private final String accessKeySecret = "UNTDHbCK7gFqVFif3zCGddc0SLTP4f";
+    private final String accessKeyId = "阿里云accesskey";
+    private final String accessKeySecret = "阿里云";
     private final String bucketName = "web-tlias";
 
     /**
